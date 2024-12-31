@@ -1,4 +1,5 @@
 # Task List
+<<<<<<< HEAD
 
 ## The project consists of a complete Full Stack application with the goal of assisting in the management of activities and tasks.
 
@@ -85,3 +86,6 @@ $ npm install
 
 $ npm start
 ```
+=======
+The project consists of a complete Full Stack application with the goal of assisting in the management of activities and tasks.
+>>>>>>> 59464f2275703548daa5244b9902b4abcf7ff39c
