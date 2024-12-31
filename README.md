@@ -33,14 +33,6 @@
 
 # How to Use
 
-### First, we need to clone or download this repository.
-
-```bash
-#Command to clone the repository
-
-$ git clone https://github.com/manualdodev/todolist-fullstack.git
-```
-
 ### After cloning the repository, it is necessary to create a MySQL database along with the necessary columns.
 
 ```bash
