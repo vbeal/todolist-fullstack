@@ -33,6 +33,10 @@
 
 # How to Use
 
+### Docker run
+
+docker run --name mysql -e MYSQL_ROOT_PASSWORD=YourPassWord -p 3306:3306 -d mysql
+
 ### After cloning the repository, it is necessary to create a MySQL database along with the necessary columns.
 
 ```bash
